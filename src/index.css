@@ -5,7 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(255, 255, 255);
+  /* background-image: url(../src/components/Resources/portal-rick-and-morty.gif); */
+  background-position: center;  
+  background-repeat: no-repeat;
+  background-size: 1300px;
+  background-position-y: -10px;
 }
+
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

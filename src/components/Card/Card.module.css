@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Allaina-Medium';
+    src: url('../Fonts/Allaina-Medium/Allaina-Medium.woff');
+}
+
+.divCard {
+    width: 330px;
+    height: 390px;
+    overflow: hidden;
+    margin: 10px;
+    text-align: center;
+
+    background-image: url(../Resources/DesignCard.png);
+    
+    background-position: center;  
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.image {
+    position: relative;
+    top: -42.5px;
+    max-height: 222px;
+}
+
+
+.h2Name{
+    text-align: left;
+    font-family: 'Allaina-Medium', sans-serif;
+    font-size:larger;
+    position: relative;
+    top: -28px;
+    left: 30px;
+    
+    
+}
+
+.specie {
+    text-align: left;
+    font-family: 'Allaina-Medium', sans-serif;
+    font-size:larger;
+    position: relative;
+    top: -63px;
+    left: 30px;
+}
+
+.genre {
+    text-align: left;
+    font-family: 'Allaina-Medium', sans-serif;
+    font-size:larger;
+    position: relative;
+    top: -81px;
+    left: 30px;
+} 
+
+.botonX {
+    position: relative;
+    right: -118px;
+    background-color: rgb(177, 5, 5);
+    border-style: double;
+    border-color: rgb(143, 32, 32);
+}

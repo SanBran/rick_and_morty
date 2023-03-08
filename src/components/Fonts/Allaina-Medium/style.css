@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Allaina';
+    src: local('Allaina Medium'), local('Allaina-Medium'),
+        url('Allaina-Medium.woff2') format('woff2'),
+        url('Allaina-Medium.woff') format('woff'),
+        url('Allaina-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
