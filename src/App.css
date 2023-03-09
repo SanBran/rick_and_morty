@@ -1,3 +1,25 @@
 .App {
    text-align: center;
+   background-image: url(./components/Resources/SeekPng.com_hud-elements-png_6886139.png);
+   background-size: 82%;
+   background-repeat: no-repeat;
+   background-position-x: center;
+   background-position-y:1.8em;
+   background-blend-mode:color-dodge;
+   position: sticky;
+   
+}
+
+.Logo {
+   position:fixed;
+   height: 25em;
+   width: 50%;
+   margin-left: 24%;
+   margin-top: 2.5%;
+   
+   
+   background-image: url(./components/Resources/logo.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 100%;
 }

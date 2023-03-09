@@ -9,8 +9,9 @@ body {
   background-image: url(../src/components/Resources/portal-rick-and-morty.gif);
   background-position: center;  
   background-repeat: no-repeat;
-  background-size: 2200px;
+  background-size: 2150px;
   background-position-y: -10px;
+  position: sticky;
   
 }
 

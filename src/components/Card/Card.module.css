@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Allaina-Medium';
-    src: url('../Fonts/Allaina-Medium/Allaina-Medium.woff');
+    font-family: 'Beleren2016-Bold';
+    src: url('../Fonts/typeface-beleren-bold-master/Beleren2016-Bold.ttf');
 }
 
 .divCard {
@@ -9,6 +9,8 @@
     overflow: hidden;
     margin: 10px;
     text-align: center;
+    font-family: 'Beleren2016-Bold', sans-serif;
+    color: rgb(31, 0, 31);
 
     background-image: url(../Resources/DesignCard.png);
     
@@ -19,17 +21,17 @@
 
 .image {
     position: relative;
-    top: -42.5px;
+    top: -37.5px;
     max-height: 222px;
 }
 
 
 .h2Name{
     text-align: left;
-    font-family: 'Allaina-Medium', sans-serif;
+    
     font-size:larger;
     position: relative;
-    top: -28px;
+    top: -20.2px;
     left: 30px;
     
     
@@ -37,19 +39,19 @@
 
 .specie {
     text-align: left;
-    font-family: 'Allaina-Medium', sans-serif;
+    
     font-size:larger;
     position: relative;
-    top: -63px;
+    top: -50px;
     left: 30px;
 }
 
 .genre {
     text-align: left;
-    font-family: 'Allaina-Medium', sans-serif;
+    
     font-size:larger;
     position: relative;
-    top: -81px;
+    top: -60px;
     left: 30px;
 } 
 
