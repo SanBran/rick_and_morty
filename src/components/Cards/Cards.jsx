@@ -5,8 +5,8 @@ export default function Cards({characters}) {
    return <div className={styles.divCards}>
       {characters.map((({name, species, gender, image}) => {
          return <Card name ={name} 
-         species={species}
-          gender={gender} 
+         species= {"Specie: " + species}
+          gender={"Gender: " + gender} 
          image={image}
          onClose={() => window.alert ("Emulamos que se cierra la card")}
          />

@@ -6,11 +6,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgb(255, 255, 255);
-  /* background-image: url(../src/components/Resources/portal-rick-and-morty.gif); */
+  background-image: url(../src/components/Resources/portal-rick-and-morty.gif);
   background-position: center;  
   background-repeat: no-repeat;
-  background-size: 1300px;
+  background-size: 2200px;
   background-position-y: -10px;
+  
 }
 
 
